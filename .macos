@@ -1,4 +1,4 @@
-# curl https://raw.githubusercontent.com/ta1188/dotfiles/master/.macos | bash
+# curl https://raw.githubusercontent.com/trevoradams42/dotfiles/master/.macos | bash
 
 
 # Close any open System Preferences panes, to prevent them from overriding
