@@ -36,6 +36,9 @@ echo "zsh --version: $(zsh --version)"
 echo "installing autojump"
 brew install autojump
 
+echo "installing zsh-autosuggestions"
+brew install zsh-autosuggestions
+
 echo "installing nvm"
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
 echo "nvm --version: $(nvm --version)"
