@@ -42,8 +42,7 @@ echo "nvm --version: $(nvm --version)"
 
 echo "installing apps with brew cask"
 brew cask install google-chrome firefox itsycal visual-studio-code \
-amazon-music slack sourcetree figma postman mongodb-compass \
-spectacle 
+amazon-music slack figma postman mongodb-compass spectacle \ 
 
 ###############################################################################
 # Screen                                                                      #
